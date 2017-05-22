@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Context reloadable="true" privileged="true">
+	<ResourceLink global="jdbc/mysql" name="jdbc/mysql" type="javax.sql.DataSource"/> 
+</Context>

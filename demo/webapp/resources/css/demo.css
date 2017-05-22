@@ -1,0 +1,30 @@
+.form-group.has-error label {
+  color: #dd4b39;
+}
+
+.form-group.has-error .form-control {
+  border-color: #dd4b39;
+  box-shadow: none;
+}	
+
+.lookalink {
+    cursor:pointer;
+    color: limegreen !mportant;    
+}
+
+a.lookalink {
+    color: limegreen !important;
+}
+
+.bottom-margin-sm {
+    margin-bottom: 5px !important;
+}
+
+.btn-xl {
+    background-color: limegreen !important;
+    border-color: limegreen !important;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none !important;
+}
